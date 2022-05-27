@@ -5,9 +5,9 @@ A Frontend Web Developer love to build and share new things with others.
 <br />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=igdev116">
-  <img src="https://shields.io/github/stars/igdev116">
-  <img src="https://img.shields.io/github/followers/igdev116">
+  <img src="https://komarev.com/ghpvc/?username=salyndev0">
+  <img src="https://shields.io/github/stars/salyndev0">
+  <img src="https://img.shields.io/github/followers/salyndev0">
 </p>
 
 ### **My knowledges 📖**
