@@ -1,6 +1,5 @@
-h1><strong>Hi there, I'm Salyn Dev</strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h1>
+<h1><strong>Hi there, I'm Salyn Dev</strong></h1>
 A Frontend Web Developer love to build and share new things with others.
-
 <br />
 <br />
 
