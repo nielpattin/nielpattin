@@ -1,12 +1,11 @@
-<h1><strong>Hi there, I'm Salyn Dev</strong></h1>
+<h1><strong>Hi there, I'm Neil from future</strong></h1>
 A Frontend Web Developer love to build and share new things with others.
 <br />
 <br />
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=salyndev0">
-  <img src="https://shields.io/github/stars/salyndev0">
-  <img src="https://img.shields.io/github/followers/salyndev0">
+  <img src="https://komarev.com/ghpvc/?username=neilfromfuture">
+  <img src="https://shields.io/github/stars/neilfromfuture">
+  <img src="https://img.shields.io/github/followers/neilfromfuture">
 </p>
 
 ### **My knowledges 📖**
