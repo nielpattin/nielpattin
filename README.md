@@ -30,16 +30,11 @@ A Frontend Web Developer love to build and share new things with others.
 <!-- ![Socket.IO](https://img.shields.io/badge/Socket.IO-black.svg?style=flat-square&logo=socket.io&logoColor=white) -->
 <!-- ![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) -->
 
-### **Latest Projects 🚀**
-
-- [App Name](https://the-app.com/)
-
-
 ### **Some of my Github Stats 🎓**
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=salyndev0&show_icons=true&theme=react&icon_color=ffb300" height="165">
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salyndev0&layout=compact&theme=react&langs_count=6&" height="165"> -->
+<img src="https://github-readme-stats.vercel.app/api?username=neilfromfuture&show_icons=true&theme=react&icon_color=ffb300" height="165">
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neilfromfuture&layout=compact&theme=react&langs_count=6&" height="165"> -->
 </p>
 
 ### **Connect with me ⚡**
