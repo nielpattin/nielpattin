@@ -1,4 +1,4 @@
-<h1 align="center"><strong>Hi there, I'm Niel (aka Thành Long)</strong></h1>
+<h1 align="center"><strong>Hi there, I'm Niel Pattin (aka Thành Long)</strong></h1>
 
 
 <h3 align="center">A passionate Game Developer with Unity, Godot or any low level framwork</h3>
@@ -8,7 +8,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://go-skill-icons.vercel.app">
-    <img src="https://go-skill-icons.vercel.app/api/icons??i=unity,godot,cs,lua,blender,appwrite,aws,bash,docker,firebase,git,kubernetes,linux,mongodb,nodejs,postgres,redis,sqlite,svelte&perline=10&theme=dark" />
+    <img src="https://go-skill-icons.vercel.app/api/icons??i=unity,godot,cs,lua,blender,appwrite,aws,bash,docker,firebase,git,kubernetes,linux,mongodb,nodejs,postgres,redis,sqlite,svelte,arch&perline=10&theme=dark" />
   </a>
 </p>
 
