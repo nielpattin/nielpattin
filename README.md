@@ -1,4 +1,4 @@
-<h1 align="center"><strong>Hi there, I'm Niel Pattin (aka Thành Long)</strong></h1>
+<h1 align="center"><strong>Hi there, I'm Niel Pattin </strong></h1>
 
 
 <h3 align="center">A passionate Game Developer with Unity, Godot or any low level framwork</h3>
