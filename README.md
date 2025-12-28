@@ -11,9 +11,3 @@
     <img src="https://go-skill-icons.vercel.app/api/icons??i=unity,godot,cs,lua,blender,aws,docker,firebase,git,kubernetes,arch,linux,bash,mongodb,nodejs,svelte,postgres,redis,sqlite&perline=10&theme=dark" />
   </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nielpattin&show_icons=true&locale=en&layout=compact" alt="nielpattin" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nielpattin&show_icons=true&locale=en" alt="nielpattin" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nielpattin&" alt="nielpattin" /></p>
