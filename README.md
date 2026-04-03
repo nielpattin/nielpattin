@@ -8,6 +8,6 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://go-skill-icons.vercel.app">
-    <img src="https://go-skill-icons.vercel.app/api/icons??i=cs,lua,aws,docker,firebase,git,kubernetes,arch,linux,bash,postgres,mongodb,nodejs,redis,sqlite,godot&perline=10&theme=dark" />
+    <img src="https://go-skill-icons.vercel.app/api/icons??i=cs,dotnet,typescript,react,aws,docker,firebase,cloudflare,git,kubernetes,linux,postgres,nodejs,redis,sqlite,godot&perline=10&theme=dark" />
   </a>
 </p>
