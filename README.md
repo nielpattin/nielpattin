@@ -4,7 +4,8 @@
 
 <h3 align="center">Languages and Tools I mostly do</h3>
 <p align="center">
-  <a href="https://go-skill-icons.vercel.app">
-    <img src="https://go-skill-icons.vercel.app/api/icons??i=typescript,golang,react,nodejs,nestjs,aws,docker,firebase,cloudflare,git,kubernetes,linux,postgres,redis,sqlite,godot&perline=10&theme=dark" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=typescript,golang,react,nextjs,nodejs,nestjs,express,aws,docker,firebase,cloudflare,git,githubactions,gitlab,kubernetes,linux,postgres,redis,sqlite,godot&perline=10" />
   </a>
 </p>
+
