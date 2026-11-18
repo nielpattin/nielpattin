@@ -16,20 +16,35 @@
       <img src="https://img.shields.io/badge/-JavaScript-111?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
       <img src="https://img.shields.io/badge/-TypeScript-111?style=flat-square&logo=typescript&logoColor=3178C6"/>
       <img src="https://img.shields.io/badge/-Go-111?style=flat-square&logo=go&logoColor=00ADD8"/>
+      <img src="https://img.shields.io/badge/-C-111?style=flat-square&logo=c&logoColor=A8B9CC"/>
     </td>
   </tr>
   <tr>
     <td>
       <b>Frontend</b><br />
+      <img src="https://img.shields.io/badge/-HTML5-111?style=flat-square&logo=html5&logoColor=E34F26"/>
+      <img src="https://img.shields.io/badge/-CSS-111?style=flat-square&logo=css&logoColor=1572B6"/>
       <img src="https://img.shields.io/badge/-React-111?style=flat-square&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/-Next.js-111?style=flat-square&logo=nextdotjs&logoColor=ffffff"/>
+      <img src="https://img.shields.io/badge/-Solid-111?style=flat-square&logo=solid&logoColor=4F88C6"/>
+      <img src="https://img.shields.io/badge/-CSS%20Modules-111?style=flat-square&logo=cssmodules&logoColor=ffffff"/>
       <img src="https://img.shields.io/badge/-Astro-111?style=flat-square&logo=astro&logoColor=BC52EE"/>
       <img src="https://img.shields.io/badge/-Tailwind-111?style=flat-square&logo=tailwindcss&logoColor=06B6D4"/>
       <img src="https://img.shields.io/badge/-TanStack%20Query-111?style=flat-square&logo=reactquery&logoColor=FF4154"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>Tooling</b><br />
       <img src="https://img.shields.io/badge/-Vite-111?style=flat-square&logo=vite&logoColor=646CFF"/>
       <img src="https://img.shields.io/badge/-Bun-111?style=flat-square&logo=bun&logoColor=FBF0DF"/>
       <img src="https://img.shields.io/badge/-pnpm-111?style=flat-square&logo=pnpm&logoColor=F69220"/>
       <img src="https://img.shields.io/badge/-Vitest-111?style=flat-square&logo=vitest&logoColor=6E9F18"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>Design</b><br />
       <img src="https://img.shields.io/badge/-Figma-111?style=flat-square&logo=figma&logoColor=F24E1E"/>
     </td>
   </tr>
@@ -40,6 +55,7 @@
       <img src="https://img.shields.io/badge/-NestJS-111?style=flat-square&logo=nestjs&logoColor=E0234E"/>
       <img src="https://img.shields.io/badge/-Express-111?style=flat-square&logo=express&logoColor=ffffff"/>
       <img src="https://img.shields.io/badge/-Hono-111?style=flat-square&logo=hono&logoColor=E36002"/>
+      <img src="https://img.shields.io/badge/-Swagger-111?style=flat-square&logo=swagger&logoColor=85EA2D"/>
       <img src="https://img.shields.io/badge/-Fastify-111?style=flat-square&logo=fastify&logoColor=ffffff"/>
     </td>
   </tr>
@@ -64,6 +80,7 @@
       <img src="https://img.shields.io/badge/-Git-111?style=flat-square&logo=git&logoColor=F05032"/>
       <img src="https://img.shields.io/badge/-GitHub%20Actions-111?style=flat-square&logo=githubactions&logoColor=2088FF"/>
       <img src="https://img.shields.io/badge/-GitLab-111?style=flat-square&logo=gitlab&logoColor=FC6D26"/>
+      <img src="https://img.shields.io/badge/-Linear-111?style=flat-square&logo=linear&logoColor=5E6AD2"/>
       <img src="https://img.shields.io/badge/-Linux-111?style=flat-square&logo=linux&logoColor=FCC624"/>
     </td>
   </tr>
@@ -92,8 +109,9 @@
   <tr>
     <td>
       <b>Agents / ai</b><br />
-      <img src="https://img.shields.io/badge/-MCP-111?style=flat-square&logo=anthropic&logoColor=D97757"/>
-      <img src="https://img.shields.io/badge/-Claude%20Code-111?style=flat-square&logo=anthropic&logoColor=D97757"/>
+      <img src="https://img.shields.io/badge/-MCP-111?style=flat-square&logo=modelcontextprotocol&logoColor=ffffff"/>
+      <img src="https://img.shields.io/badge/-Claude%20Code-111?style=flat-square&logo=claudecode&logoColor=D97757"/>
+      <img src="https://img.shields.io/badge/-Gemini-111?style=flat-square&logo=googlegemini&logoColor=8E75B2"/>
       <img src="https://img.shields.io/badge/-OpenAI-111?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMTBBMzdGIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGhlaWdodD0iMWVtIiBzdHlsZT0iZmxleDpub25lO2xpbmUtaGVpZ2h0OjEiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjFlbSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+T3BlbkFJPC90aXRsZT48cGF0aCBkPSJNOS4yMDUgOC42NTh2LTIuMjZjMC0uMTkuMDcyLS4zMzMuMjM4LS40MjhsNC41NDMtMi42MTZjLjYxOS0uMzU3IDEuMzU2LS41MjMgMi4xMTctLjUyMyAyLjg1NCAwIDQuNjYyIDIuMjEyIDQuNjYyIDQuNTY2IDAgLjE2NyAwIC4zNTctLjAyNC41NDdsLTQuNzEtMi43NTlhLjc5Ny43OTcgMCAwMC0uODU2IDBsLTUuOTcgMy40NzN6bTEwLjYwOSA4LjhWMTIuMDZjMC0uMzMzLS4xNDMtLjU3LS40MjktLjczN2wtNS45Ny0zLjQ3MyAxLjk1LTEuMTE4YS40MzMuNDMzIDAgMDEuNDc2IDBsNC41NDMgMi42MTdjMS4zMDkuNzYgMi4xODkgMi4zNzggMi4xODkgMy45NDggMCAxLjgwOC0xLjA3IDMuNDczLTIuNzYgNC4xNjN6TTcuODAyIDEyLjcwM2wtMS45NS0xLjE0MmMtLjE2Ny0uMDk1LS4yMzktLjIzOC0uMjM5LS40MjhWNS44OTljMC0yLjU0NSAxLjk1LTQuNDcyIDQuNTkxLTQuNDcyIDEgMCAxLjkyNy4zMzMgMi43MTIuOTI4TDguMjMgNS4wNjdjLS4yODUuMTY2LS40MjguNDA0LS40MjguNzM3djYuODk4ek0xMiAxNS4xMjhsLTIuNzk1LTEuNTd2LTMuMzNMMTIgOC42NThsMi43OTUgMS41N3YzLjMzTDEyIDE1LjEyOHptMS43OTYgNy4yM2MtMSAwLTEuOTI3LS4zMzItMi43MTItLjkyN2w0LjY4Ni0yLjcxMmMuMjg1LS4xNjYuNDI4LS40MDQuNDI4LS43Mzd2LTYuODk4bDEuOTc0IDEuMTQyYy4xNjcuMDk1LjIzOC4yMzguMjM4LjQyOHY1LjIzM2MwIDIuNTQ1LTEuOTc0IDQuNDcyLTQuNjE0IDQuNDcyem0tNS42MzctNS4zMDNsLTQuNTQ0LTIuNjE3Yy0xLjMwOC0uNzYxLTIuMTg4LTIuMzc4LTIuMTg4LTMuOTQ4QTQuNDgyIDQuNDgyIDAgMDE0LjIxIDYuMzI3djUuNDIzYzAgLjMzMy4xNDMuNTcxLjQyOC43MzhsNS45NDcgMy40NDktMS45NSAxLjExOGEuNDMyLjQzMiAwIDAxLS40NzYgMHptLS4yNjIgMy45Yy0yLjY4OCAwLTQuNjYyLTIuMDIxLTQuNjYyLTQuNTE5IDAtLjE5LjAyNC0uMzguMDQ3LS41N2w0LjY4NiAyLjcxYy4yODYuMTY3LjU3MS4xNjcuODU2IDBsNS45Ny0zLjQ0OHYyLjI2YzAgLjE5LS4wNy4zMzMtLjIzNy40MjhsLTQuNTQzIDIuNjE2Yy0uNjE5LjM1Ny0xLjM1Ni41MjMtMi4xMTcuNTIzem01Ljg5OSAyLjgzYTUuOTQ3IDUuOTQ3IDAgMDA1LjgyNy00Ljc1NkMyMi4yODcgMTguMzM5IDI0IDE1Ljg0IDI0IDEzLjI5NmMwLTEuNjY1LS43MTMtMy4yODItMS45OTgtNC40NDguMTE5LS41LjE5LS45OTkuMTktMS40OTggMC0zLjQwMS0yLjc1OS01Ljk0Ny01Ljk0Ni01Ljk0Ny0uNjQyIDAtMS4yNi4wOTUtMS44OC4zMUE1Ljk2MiA1Ljk2MiAwIDAwMTAuMjA1IDBhNS45NDcgNS45NDcgMCAwMC01LjgyNyA0Ljc1N0MxLjcxMyA1LjQ0NyAwIDcuOTQ1IDAgMTAuNDljMCAxLjY2Ni43MTMgMy4yODMgMS45OTggNC40NDgtLjExOS41LS4xOSAxLS4xOSAxLjQ5OSAwIDMuNDAxIDIuNzU5IDUuOTQ2IDUuOTQ2IDUuOTQ2LjY0MiAwIDEuMjYtLjA5NSAxLjg4LS4zMDlhNS45NiA1Ljk2IDAgMDA0LjE2MiAxLjcxM3oiPjwvcGF0aD48L3N2Zz4="/>
       <img src="https://img.shields.io/badge/-OpenCode-111?style=flat-square&logo=opencode&logoColor=ffffff"/>
       <img src="https://img.shields.io/badge/-Pi-111?style=flat-square&logo=pi&logoColor=ffffff"/>
